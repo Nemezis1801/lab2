@@ -1,0 +1,33 @@
+body 
+{
+	background-color: yellow;
+	padding: 15px;
+	margin: 20px;
+}
+
+#akapit
+{
+	background-color: #C0C0C0;
+	text-align: center;
+	padding:15px;
+}
+
+#stopka
+{
+	background-color: red;
+	text-align: center;
+}
+
+h1
+{
+	font-size: 36px;
+	color: green;
+	text-align: center;
+}
+
+h2
+{
+	color: blue;
+	text-align: center;
+}
+
